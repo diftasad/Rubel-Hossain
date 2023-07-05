@@ -1,3 +1,15 @@
 .first{
     background-color: aquamarine;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center; text-decoration: underline;
+}
+.second{
+    background-color:crimson;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
 }
